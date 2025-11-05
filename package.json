@@ -1,0 +1,23 @@
+{
+  "name": "shedrack-apology",
+  "version": "1.0.0",
+  "description": "Apology API for Shedrack Tabansi - /apology endpoint",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Shedrack Tabansi",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
